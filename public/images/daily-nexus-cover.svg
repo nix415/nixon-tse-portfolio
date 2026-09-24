@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" width="1200" height="675" role="img" aria-label="UCSB degrees conferred by major, 2013-14 to 2022-23">
+<rect width="1200" height="675" fill="#f6f2e9"/>
+<line x1="70" x2="1130" y1="605.0" y2="605.0" stroke="#ddd7cc" stroke-width="1.5"/>
+<line x1="70" x2="1130" y1="476.2" y2="476.2" stroke="#ddd7cc" stroke-width="1.5"/>
+<line x1="70" x2="1130" y1="347.5" y2="347.5" stroke="#ddd7cc" stroke-width="1.5"/>
+<line x1="70" x2="1130" y1="218.8" y2="218.8" stroke="#ddd7cc" stroke-width="1.5"/>
+<line x1="70" x2="1130" y1="90.0" y2="90.0" stroke="#ddd7cc" stroke-width="1.5"/>
+<path d="M70.0,325.4 L187.8,346.0 L305.6,304.8 L423.3,318.8 L541.1,308.5 L658.9,277.6 L776.7,224.6 L894.4,265.8 L1012.2,176.8 L1130.0,148.9" fill="none" stroke="#2f4739" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M541.1,602.1 L658.9,560.9 L776.7,415.2 L894.4,339.4 L1012.2,282.0 L1130.0,254.8" fill="none" stroke="#9a6a3f" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M70.0,491.7 L187.8,491.7 L305.6,500.5 L423.3,479.2 L541.1,457.9 L658.9,425.5 L776.7,367.4 L894.4,360.0 L1012.2,362.2 L1130.0,297.5" fill="none" stroke="#44597a" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M70.0,460.8 L187.8,446.1 L305.6,427.0 L423.3,392.4 L541.1,390.2 L658.9,357.1 L776.7,349.7 L894.4,343.8 L1012.2,346.0 L1130.0,330.6" fill="none" stroke="#8c4a4a" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M776.7,513.8 L894.4,434.3 L1012.2,393.9 L1130.0,344.6" fill="none" stroke="#6f8f7a" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M70.0,561.6 L187.8,538.8 L305.6,530.7 L423.3,546.1 L541.1,509.4 L658.9,499.1 L776.7,486.6 L894.4,493.9 L1012.2,486.6 L1130.0,470.4" fill="none" stroke="#b2934f" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="70" x2="1130" y1="605.0" y2="605.0" stroke="#2f4739" stroke-width="2"/>
+<text x="70" y="52" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="21" letter-spacing="3.4" fill="#6b6459">UCSB DEGREES CONFERRED BY MAJOR</text>
+<text x="70" y="651" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="19" letter-spacing="3" fill="#8a8276">2013-14</text>
+<text x="1130" y="651" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="19" letter-spacing="3" fill="#8a8276">2022-23</text>
+</svg>

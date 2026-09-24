@@ -41,6 +41,22 @@ export const PROJECTS: Project[] = [
   },
   {
     index: "02",
+    name: "Daily Nexus — UCSB Degree Data",
+    description:
+      "As a data intern at UCSB's student paper, I turned ten years of degree-conferral records into the three charts behind a published story on which majors are growing, and why.",
+    imgSrc: "/images/daily-nexus-cover.svg",
+    link: "/work/daily-nexus",
+    linkText: "Read case study",
+    secondaryLink: {
+      href: "https://dailynexus.com/2024-05-16/ucsb-academic-departments-have-seen-growth-in-undergraduate-degrees-conferred-in-recent-years/",
+      label: "Published article",
+    },
+    stats: ["Python", "Plotly", "Data journalism"],
+    outcome:
+      "The analysis set the reporting: every anomalous line became an interview that explained it.",
+  },
+  {
+    index: "03",
     name: "SQL Marketing Portfolio",
     description:
       "Five SQL analyses on Kaggle's Customer Segmentation Data — acquisition, funnel, cohort retention, revenue ROI, and RFM segmentation. The questions a growth team asks every week.",
@@ -55,7 +71,7 @@ export const PROJECTS: Project[] = [
       "Isolated high-value RFM segments and flagged at-risk customers for re-activation.",
   },
   {
-    index: "03",
+    index: "04",
     name: "Asian News Aggregator",
     description:
       "Pulls 15+ AAPI news sources and uses Reddit and AI signals to surface what audiences care about — built around audience targeting and content strategy.",
@@ -70,7 +86,7 @@ export const PROJECTS: Project[] = [
       "Cut hours of manual content sourcing out of the weekly social workflow at Asian Founded.",
   },
   {
-    index: "04",
+    index: "05",
     name: "Kyle's Kitchen Marketing Report",
     description:
       "Collegiate marketing report for Kyle's Kitchen — positioning, audience research, and a campaign roadmap built for the American Marketing Association at UCSB.",
@@ -85,7 +101,7 @@ export const PROJECTS: Project[] = [
       "Delivered a full positioning + campaign roadmap for a UCSB AMA client engagement.",
   },
   {
-    index: "05",
+    index: "06",
     name: "UCSB × MLB Case Competition",
     description:
       "National MLB marketing case deck covering audience segmentation, fan engagement strategy, and growth opportunities for a younger demographic.",
