@@ -1,0 +1,111 @@
+year,grouping,name,degrees
+2013-14,division,Letters & Science,4951
+2014-15,division,Letters & Science,4922
+2015-16,division,Letters & Science,5296
+2016-17,division,Letters & Science,5405
+2017-18,division,Letters & Science,5622
+2018-19,division,Letters & Science,5878
+2019-20,division,Letters & Science,6577
+2020-21,division,Letters & Science,6501
+2021-22,division,Letters & Science,6306
+2022-23,division,Letters & Science,6557
+2013-14,division,Engineering,298
+2014-15,division,Engineering,340
+2015-16,division,Engineering,330
+2016-17,division,Engineering,314
+2017-18,division,Engineering,344
+2018-19,division,Engineering,366
+2019-20,division,Engineering,383
+2020-21,division,Engineering,403
+2021-22,division,Engineering,419
+2022-23,division,Engineering,387
+2013-14,division,Creative Studies,90
+2014-15,division,Creative Studies,98
+2015-16,division,Creative Studies,98
+2016-17,division,Creative Studies,99
+2017-18,division,Creative Studies,99
+2018-19,division,Creative Studies,87
+2019-20,division,Creative Studies,106
+2020-21,division,Creative Studies,110
+2021-22,division,Creative Studies,126
+2022-23,division,Creative Studies,117
+2013-14,major,Communication,380
+2014-15,major,Communication,352
+2015-16,major,Communication,408
+2016-17,major,Communication,389
+2017-18,major,Communication,403
+2018-19,major,Communication,445
+2019-20,major,Communication,517
+2020-21,major,Communication,461
+2021-22,major,Communication,582
+2022-23,major,Communication,620
+2013-14,major,Psychological & Brain Sciences,
+2014-15,major,Psychological & Brain Sciences,
+2015-16,major,Psychological & Brain Sciences,
+2016-17,major,Psychological & Brain Sciences,
+2017-18,major,Psychological & Brain Sciences,4
+2018-19,major,Psychological & Brain Sciences,60
+2019-20,major,Psychological & Brain Sciences,258
+2020-21,major,Psychological & Brain Sciences,361
+2021-22,major,Psychological & Brain Sciences,439
+2022-23,major,Psychological & Brain Sciences,476
+2013-14,major,Economics,154
+2014-15,major,Economics,154
+2015-16,major,Economics,142
+2016-17,major,Economics,171
+2017-18,major,Economics,200
+2018-19,major,Economics,244
+2019-20,major,Economics,323
+2020-21,major,Economics,333
+2021-22,major,Economics,330
+2022-23,major,Economics,418
+2013-14,major,Biological Sciences,196
+2014-15,major,Biological Sciences,216
+2015-16,major,Biological Sciences,242
+2016-17,major,Biological Sciences,289
+2017-18,major,Biological Sciences,292
+2018-19,major,Biological Sciences,337
+2019-20,major,Biological Sciences,347
+2020-21,major,Biological Sciences,355
+2021-22,major,Biological Sciences,352
+2022-23,major,Biological Sciences,373
+2013-14,major,Statistics and Data Science,
+2014-15,major,Statistics and Data Science,
+2015-16,major,Statistics and Data Science,
+2016-17,major,Statistics and Data Science,
+2017-18,major,Statistics and Data Science,
+2018-19,major,Statistics and Data Science,
+2019-20,major,Statistics and Data Science,124
+2020-21,major,Statistics and Data Science,232
+2021-22,major,Statistics and Data Science,287
+2022-23,major,Statistics and Data Science,354
+2013-14,major,Physics,59
+2014-15,major,Physics,90
+2015-16,major,Physics,101
+2016-17,major,Physics,80
+2017-18,major,Physics,130
+2018-19,major,Physics,144
+2019-20,major,Physics,161
+2020-21,major,Physics,151
+2021-22,major,Physics,161
+2022-23,major,Physics,183
+2013-14,major,Economics & Accounting,228
+2014-15,major,Economics & Accounting,273
+2015-16,major,Economics & Accounting,338
+2016-17,major,Economics & Accounting,348
+2017-18,major,Economics & Accounting,345
+2018-19,major,Economics & Accounting,335
+2019-20,major,Economics & Accounting,379
+2020-21,major,Economics & Accounting,360
+2021-22,major,Economics & Accounting,326
+2022-23,major,Economics & Accounting,278
+2013-14,major,Financial Math and Stats,28
+2014-15,major,Financial Math and Stats,33
+2015-16,major,Financial Math and Stats,66
+2016-17,major,Financial Math and Stats,81
+2017-18,major,Financial Math and Stats,96
+2018-19,major,Financial Math and Stats,100
+2019-20,major,Financial Math and Stats,107
+2020-21,major,Financial Math and Stats,111
+2021-22,major,Financial Math and Stats,138
+2022-23,major,Financial Math and Stats,126
