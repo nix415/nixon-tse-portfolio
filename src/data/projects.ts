@@ -37,7 +37,6 @@ export const PROJECTS: Project[] = [
     stats: ["GA4", "Tracking plan", "Conversion UX"],
     outcome:
       "Two funnels mapped to key events — consultation leads and pre-launch waitlist demand — verified firing in Realtime.",
-    featured: true,
   },
   {
     index: "02",

@@ -74,8 +74,8 @@ export default function Hero() {
                 <img
                   src="/headshot.jpg"
                   alt="Nixon Tse portrait"
-                  className="h-full w-full object-cover scale-125"
-                  style={{ objectPosition: "50% 22%", transformOrigin: "center 28%" }}
+                  className="h-full w-full object-cover scale-[1.7]"
+                  style={{ objectPosition: "50% 18%", transformOrigin: "center 24%" }}
                   loading="eager"
                 />
               </div>
