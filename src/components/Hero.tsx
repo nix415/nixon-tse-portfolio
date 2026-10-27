@@ -32,9 +32,6 @@ export default function Hero() {
           <span className="block">
             <LetterRise text={SITE.firstName} baseDelay={120} />
           </span>
-          <span className="block">
-            <LetterRise text={SITE.lastName} baseDelay={120 + SITE.firstName.length * 55} />
-          </span>
         </h1>
 
         <div
@@ -77,8 +74,8 @@ export default function Hero() {
                 <img
                   src="/headshot.jpg"
                   alt="Nixon Tse portrait"
-                  className="h-full w-full object-cover"
-                  style={{ objectPosition: "50% 28%" }}
+                  className="h-full w-full object-cover scale-125"
+                  style={{ objectPosition: "50% 22%", transformOrigin: "center 28%" }}
                   loading="eager"
                 />
               </div>
