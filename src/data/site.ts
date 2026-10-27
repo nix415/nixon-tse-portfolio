@@ -17,10 +17,7 @@ export const SITE = {
    * Short recruiter-facing answers to "is he available / where / what role"
    * rendered as a mono band directly under the tagline.
    */
-  quickFacts: [
-    "San Francisco",
-    "Growth & Marketing Analytics",
-  ] as const,
+  quickFacts: ["San Francisco"] as const,
 
   hero: {
     bio: "One of my deepest joys comes from turning customer curiosity into work people actually notice — across growth marketing, marketing analytics, and small digital experiments.",

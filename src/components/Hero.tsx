@@ -71,7 +71,7 @@ export default function Hero() {
             <div className="mt-6">
               <div
                 ref={portrait.ref}
-                className="h-20 w-20 rounded-full overflow-hidden border border-[color:var(--color-line)] bg-[color:var(--color-surface)]"
+                className="h-32 w-32 sm:h-40 sm:w-40 rounded-full overflow-hidden border border-[color:var(--color-line)] bg-[color:var(--color-surface)]"
                 style={{ transform: `translateY(${portrait.offset}px)` }}
               >
                 <img
